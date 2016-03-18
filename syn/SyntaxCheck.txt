@@ -1,0 +1,43 @@
+
+Started : "Check Syntax for PROCESSOR_32Bit".
+Running xst...
+Command Line: xst -intstyle ise -ifn C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/PROCESSOR_32Bit.xst -ofn PROCESSOR_32Bit.stx
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/PROCESSOR_pkg.vhd" in Library work.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/PROG_COUNTER_32Bit.vhd" in Library work.
+Architecture behavioral of Entity prog_counter_32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/ADDER_32Bit_Unsigned.vhd" in Library work.
+Architecture behavioral of Entity adder_32bit_unsigned is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/ROM_512x32Bit.vhd" in Library work.
+Architecture behavioral of Entity rom_512x32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/MUX_2to1_5Bit.vhd" in Library work.
+Architecture behavioral of Entity mux_2to1_5bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/MUX_2to1_32Bit.vhd" in Library work.
+Architecture behavioral of Entity mux_2to1_32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/CONCATENATE_26to32Bit.vhd" in Library work.
+Architecture behavioral of Entity concatenate_26to32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/CONTROLLER_32Bit.vhd" in Library work.
+Architecture behavioral of Entity controller_32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/REGFILE_32BitX5Bit.vhd" in Library work.
+Architecture behavioral of Entity regfile_32bitx5bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/SIGNEXTEND_5to32Bit.vhd" in Library work.
+Architecture behavioral of Entity signextend_5to32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/SIGNEXTEND_16to32Bit.vhd" in Library work.
+Architecture behavioral of Entity signextend_16to32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/SHIFTLEFTTWO_32Bit.vhd" in Library work.
+Architecture behavioral of Entity shiftlefttwo_32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/ALU_32Bit.vhd" in Library work.
+Architecture behavioral of Entity alu_32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/AND_2to1_1Bit.vhd" in Library work.
+Architecture behavioral of Entity and_2to1_1bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/SHIFTANDEXTEND_32Bit.vhd" in Library work.
+Architecture behavioral of Entity shiftandextend_32bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/RAM_512x8Bit.vhd" in Library work.
+Architecture behavioral of Entity ram_512x8bit is up to date.
+Compiling vhdl file "C:/Users/Andrew/Documents/ISEWorkspace/MIPS_PROCESSOR_32Bit/PROCESSOR_32Bit.vhd" in Library work.
+Architecture behavioral of Entity processor_32bit is up to date.
+
+Process "Check Syntax" completed successfully

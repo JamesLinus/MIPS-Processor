@@ -1,0 +1,9 @@
+
+Started : "Generate Post-Synthesis Simulation Model".
+Running netgen...
+Command Line: netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim PROCESSOR_32Bit.ngc PROCESSOR_32Bit_synthesis.v
+INFO:NetListWriters:633 - The generated Verilog netlist contains Xilinx UNISIM
+   simulation primitives and has to be used with UNISIM simulation library for
+   correct compilation and simulation. 
+
+Process "Generate Post-Synthesis Simulation Model" completed successfully
