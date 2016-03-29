@@ -1,22 +1,16 @@
-The following files and folders contain a MIPS Control Processing Unit.
+The following files and folders contain MIPS Central Processing Unit.
 
-This single cycle processing unit supports the full MIPS instruction set which can be viewed at:
-MIPSSpecificationSheet.html
+One project contains the Single Stage processing unit supports the full MIPS instruction set.
+The full list of instructions can be viewed at: MIPSSpecificationSheet.html
 
-To view project design:
-design
+For the Single Stage project:
+To view project documentation: ./MIPS Single Stage/doc/report.pdf
+To view schematic of control flow: ./MIPS Single Stage/MIPS_Datapath.pdf
+To view source code: ./MIPS Single Stage/design/
 
-To view project documentation:
-doc/report.pdf
+The other project contains a Five Stage processing unit, by adding intermediate registers the processor increases throughput.
 
-To view project simulation:
-sim
-
-To view project synthesis specifications:
-syn
-
-To view project test bench verifications:
-ver
-
-To view schematic of control flow:
-MIPS_Datapath.pdf
+For the Five Stage project:
+To view project documentation: ./MIPS Five Stage/report.pdf
+To view schematic of control flow: ./MIPS Five Stage/MIPS_Datapath.png
+To view source code: ./MIPS Five Stage/design/
