@@ -1,16 +1,7 @@
 The following files and folders contain MIPS Central Processing Units.
 
-One project contains the Single Stage processing unit which supports the full MIPS instruction set.
-A list of the instructions can be viewed at: ./MIPSSpecificationSheet.html
+Please review the MIPS single cycle report for datapath, simulation, and overview.
+https://github.com/DavidPynes/MIPS-Processor/blob/master/MIPS%20Single%20Stage/doc/report.pdf
 
-For the Single Stage project:
-To view project documentation: ./MIPS Single Stage/doc/report.pdf
-To view schematic of control flow: ./MIPS Single Stage/MIPS_Datapath.pdf
-To view source code: ./MIPS Single Stage/design/
-
-The other project contains a Five Stage pipelined processing unit, by adding intermediate registers the processor increases throughput.
-
-For the Five Stage project:
-To view project documentation: ./MIPS Five Stage/report.pdf
-To view schematic of control flow: ./MIPS Five Stage/MIPS_Datapath.png
-To view source code: ./MIPS Five Stage/design/
+Please review the MIPS five stage pipelined report here.
+https://github.com/DavidPynes/MIPS-Processor/blob/master/MIPS%20Five%20Stage/report.pdf
